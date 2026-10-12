@@ -35,3 +35,9 @@ Developed as a follow-up to my diploma thesis on sustainable transport hubs in t
 
 ## Tools
 Python, osmnx, networkx, geopandas, pandas, matplotlib, Google Colab.
+
+## License
+Code: MIT License (see LICENSE).
+Map data © OpenStreetMap contributors, available under the Open Database License (ODbL):
+https://www.openstreetmap.org/copyright
+The results table and map are derived from OpenStreetMap data.
